@@ -17,4 +17,5 @@ Worked on taking pictures of parked cars in parking garage for the ML model
 
 ## In Progress
 * Take more pictures for data depending on the updated code
+* Understand example deep learning code from example jupyter book
 * Research more on object detection, machine learning, and deep learning models
