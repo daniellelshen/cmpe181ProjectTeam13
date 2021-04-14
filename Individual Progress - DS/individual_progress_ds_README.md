@@ -11,4 +11,9 @@ Followed: https://github.com/tensorflow/models/blob/master/research/object_detec
 
 To get basic object detection for the core of the project 
 
-First part of the ML detection to recognize the different cars
+# Completed 
+- First part of the ML detection to recognize the different cars
+
+# In Progress
+- code to check lot for open spaces 
+- counting/identifying number of cars that enter and leave 
