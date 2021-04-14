@@ -19,3 +19,5 @@ Danielle Shen	-	ML model development
 [DS - ML Development](https://github.com/daniellelshen/cmpe181ProjectTeam13/tree/main/Individual%20Progress%20-%20DS)
 
 Arian Joy Velarde -Take photos for ML detection testing 
+
+[AV - ML Data and Test](https://github.com/daniellelshen/cmpe181ProjectTeam13/tree/main/Individual%20Progress%20-%20AV)
