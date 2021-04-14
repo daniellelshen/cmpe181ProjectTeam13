@@ -2,7 +2,7 @@
 
 Worked on taking pictures of parked cars in parking garage for the ML model
 
-# Steps
+## Steps
 * Types of pictures we want to take:
   * Cars coming in and out of the parking garages
   * Empty car spots
@@ -11,10 +11,10 @@ Worked on taking pictures of parked cars in parking garage for the ML model
     * Back of the car that shows the taillight and license plate
   * Overhead shots of parked cars in the garage
 
-# Completed
+## Completed
 * Took pictures of different types of scenarios in parking garages
 * Researched deep learning models
 
-# In Progress
+## In Progress
 * Take more pictures for data depending on the updated code
 * Research more on object detection, machine learning, and deep learning models
