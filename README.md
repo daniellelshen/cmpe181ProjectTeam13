@@ -9,7 +9,7 @@ Members: Aman Kuar, Elizabeth Na, Danielle Shen, and Arian Joy Velarde
 
 ## Project Progress Check 1 (individual work)
 Aman Kaur	- API integration with UI and Backend 
-[AK - API Development] (https://github.com/daniellelshen/cmpe181ProjectTeam13/tree/main/Individual%20Progress%20-%20AK)
+[AK - API Development](https://github.com/daniellelshen/cmpe181ProjectTeam13/tree/main/Individual%20Progress%20-%20AK)
 
 Elizabeth Na	- UI Development (website on desktop and mobile) 
 
