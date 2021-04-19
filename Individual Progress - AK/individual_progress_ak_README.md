@@ -6,8 +6,7 @@
 
 # **Research**
 - To embedd google maps into a basic web application, a basic HTTP request with an iframe generator may be used. Using this guide, an example was made to create an interactive map around SJSU was created in the attached 'index.html' file. Inside the iframe request, an API key needs to generated to use Google Maps Platform. 
-  
-  (add more information regarding google maps and satellite images...)
+
   
 - In terms of integrating the user interface with the backend server of this application, there are several optionn considered:
    -  User Interface : React
