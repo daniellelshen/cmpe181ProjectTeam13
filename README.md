@@ -44,9 +44,9 @@ Image of parking spot layover
 
 ![image](https://user-images.githubusercontent.com/48109463/119433888-f7ff0380-bccb-11eb-87ba-58aa5ef299d8.png)
 
-[Car Detection](https://github.com/daniellelshen/cmpe181ProjectTeam13/blob/main/parking_ML.ipynb)
+[Pickle File Regions](https://github.com/daniellelshen/cmpe181ProjectTeam13/blob/main/regions.p)
 
-[Pickle File Regions1](https://github.com/daniellelshen/cmpe181ProjectTeam13/blob/main/regions.p)
+[Car Detection](https://github.com/daniellelshen/cmpe181ProjectTeam13/blob/main/parking_ML.ipynb)
 
 Problems encountered 
 - Pickle file creation 
