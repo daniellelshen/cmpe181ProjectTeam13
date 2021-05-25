@@ -23,3 +23,39 @@ Danielle Shen	-	ML model development
 Arian Joy Velarde -Take photos for ML detection testing 
 
 [AV - ML Data and Test](https://github.com/daniellelshen/cmpe181ProjectTeam13/tree/main/Individual%20Progress%20-%20AV)
+
+
+## Project Status 
+
+Note: All Group Members worked together after individual progress check 
+
+After meeting with Prof. during office hours, group focus switched to parking spot detection.
+
+Using video of SJSU ENGR building parking lot as the primary source of data.
+
+Completed Elements 
+- Car detection 
+- Parking Spot detection
+- Cars in parking spot 
+
+[Parking Spot Detection](https://github.com/daniellelshen/cmpe181ProjectTeam13/blob/main/parkingSpotDetection.ipynb)
+
+Image of parking spot layover 
+
+Picture in this line
+
+[Car Detection](https://github.com/daniellelshen/cmpe181ProjectTeam13/blob/main/parking_ML.ipynb)
+
+[Pickle File Regions1](https://github.com/daniellelshen/cmpe181ProjectTeam13/blob/main/regions1.p)
+
+Problems encountered 
+- Pickle file creation 
+- Trouble with using python to create pickle object files
+- dependencies in the code 
+- limited time for completion 
+
+Future work elements 
+- User interface 
+- Connect with AWS for other data 
+- Use other SJSU parking lot pictures 
+- User real-time camera 
