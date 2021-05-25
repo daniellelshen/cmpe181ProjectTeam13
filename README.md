@@ -59,3 +59,6 @@ Future work elements
 - Connect with AWS for other data 
 - Use other SJSU parking lot pictures 
 - User real-time camera 
+
+REFERENCES 
+- [Parking Spot](https://medium.com/the-research-nest/parking-space-detection-using-deep-learning-9fc99a63875e)
